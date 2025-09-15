@@ -1,7 +1,12 @@
 # Personal web site of Vyacheslav Andreenkov, MD.
 
 ## About me
-
+### Education
+I was born in Belgorod, Russia. I graduated from the Medical Institute of Belgorod State University with a degree in medicine, graduating with honors. I then completed my residency at the V.A. Negovsky Research Institute of Anesthesiology and Reanimation of the Russian Academy of Sciences, specializing in anesthesiology and intensive care.
+I studied programming courses at leading educational institutions in Russia: “Programming in C#” and “Programming Technologies” at Ural Federal University. 
+### Hobbies
+My main hobby at the moment is board games. I love games that involve a high level of communication and cooperation between players.
+I love reading, mainly science fiction and horror. My favorite topics are space adventures, AI, dystopias, and Cthulhu myths.
 
 ## My Projects
 ### Games Poll Bot, aka Cubert
