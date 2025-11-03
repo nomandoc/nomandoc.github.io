@@ -3,7 +3,7 @@
 # About
 I am a software developer and an anesthesiologist-resuscitator. I effectively combine both professions by launching IT projects based on medical clinics. My experience in medicine makes me an indispensable member of the development team: I understand what the customer wants and know how to implement it most effectively. I write mainly in C, C# and Python, but I often have to use other related languages and tools.
 # Technical Skills
-C, C#, Python
+C, C#, Python, Machine learning
 # Education
 2012-2018 yy.  Medical Institute of Belgorod State University, degree in medicine, graduating with honors.
 2018-2020 yy.  Research Institute of Anesthesiology and Reanimation n.a. V.A. Negovsky of the Russian Academy of Sciences, residency specializing in anesthesiology and intensive care.
@@ -28,4 +28,5 @@ My main hobby at the moment is board games. I love games that involve a high lev
 I love reading, mainly science fiction and horror. My favorite topics are space adventures, AI, dystopias, and Cthulhu myths.
 ## Mass Media about me
 [Price-winning place in Young Scientists Congress](https://t.me/rmanpoacademy/3473)
+
 [Win in poster section of Anestesiologists and Resuscitators Forum](https://rmanpo.ru/press-center/news/novosti-kafedry-anesteziologii-i-neotlozhnoj-medic/posternyy-doklad-molodogo-uchenogo-rmanpo-stal-luchshim-na-forume-federatsii-anesteziologov-i-reanim/)
