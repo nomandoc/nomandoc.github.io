@@ -13,6 +13,8 @@ C, C#, Python
 My successfully implemented pet project to create a bot for organizing surveys on board games. It fully automates the management of a group of board games, taking on the workload of one of the employees.
 Used techs: Python.
 [Telegram link to bot](https://t.me/GamesPollBot)
+## Meet Timer Bot (Python)
+[Telegram link to bot](https://t.me/MeetTimerBot)
 ## Hypotension Prediction (Python, Machine Learning)
 Project to develop an algorithm for predicting intraoperative hypotension during robot-assisted radical prostatectomy. Developed as part of research work involving both clinical and software engineering aspects. Based on ultrasound and anthropometric indicators, 95% prediction accuracy was achieved.
 [Telegram link to bot](https://t.me/HypoPredBot)
@@ -24,3 +26,6 @@ Project to develop an algorithm for predicting intraoperative hypotension during
 ## Hobbies
 My main hobby at the moment is board games. I love games that involve a high level of communication and cooperation between players. Favorite games are Undaunted: Battle of Britain, Undaunted: North Africa and Maximum Apocalypse.
 I love reading, mainly science fiction and horror. My favorite topics are space adventures, AI, dystopias, and Cthulhu myths.
+## Mass Media about me
+[Price-winning place in Young Scientists Congress](https://t.me/rmanpoacademy/3473)
+[Win in poster section of Anestesiologists and Resuscitators Forum](https://rmanpo.ru/press-center/news/novosti-kafedry-anesteziologii-i-neotlozhnoj-medic/posternyy-doklad-molodogo-uchenogo-rmanpo-stal-luchshim-na-forume-federatsii-anesteziologov-i-reanim/)
