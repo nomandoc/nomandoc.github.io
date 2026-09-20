@@ -3,17 +3,20 @@
 # About
 I am a software developer and an anesthesiologist-resuscitator. I effectively combine both professions by launching IT projects based on medical clinics. My experience in medicine makes me an indispensable member of the development team: I understand what the customer wants and know how to implement it most effectively. I write mainly in C, C# and Python, but I often have to use other related languages and tools.
 # Technical Skills
-C, C#, Python, Machine learning
+C (9 years), C# (8 years), Python (2 years), SQL (2 years), Machine learning (2 years)
 # Education
 2012-2018 yy.  Medical Institute of Belgorod State University, degree in medicine, graduating with honors.
 2018-2020 yy.  Research Institute of Anesthesiology and Reanimation n.a. V.A. Negovsky of the Russian Academy of Sciences, residency specializing in anesthesiology and intensive care.
 2020-2022 yy.  Ural Federal University, programming courses “Programming in C#” and “Programming Technologies”.
+2025 y. Yandex Practicum, "ML-engineer" course
 # Projects
-## Games Poll Bot, aka Cubert (Python)
+## Games Poll Bot, aka Cubert (Python, SQL, LLM)
 My successfully implemented pet project to create a bot for organizing surveys on board games. It fully automates the management of a group of board games, taking on the workload of one of the employees.
-Used techs: Python.
+Used techs: Python, SQL, LLM
 [Telegram link to bot](https://t.me/GamesPollBot)
-## Meet Timer Bot (Python)
+## Meet Timer Bot (Python, SQL)
+Another pet project I successfully completed. It helps find the best time for friends to meet, based on each person's preferences.
+Used techs: Python, SQL
 [Telegram link to bot](https://t.me/MeetTimerBot)
 ## Hypotension Prediction (Python, Machine Learning)
 Project to develop an algorithm for predicting intraoperative hypotension during robot-assisted radical prostatectomy. Developed as part of research work involving both clinical and software engineering aspects. Based on ultrasound and anthropometric indicators, 95% prediction accuracy was achieved.
@@ -21,7 +24,7 @@ Project to develop an algorithm for predicting intraoperative hypotension during
 ## Blood Manager and Blood List (C#, dotNet, WinForms)
 
 ## Medical multifunctional bed (Nocode)
-
+I worked as a medical consultant and software enginer in EnterIdeas, Jacksonville.
 # Other
 ## Hobbies
 My main hobby at the moment is board games. I love games that involve a high level of communication and cooperation between players. Favorite games are Undaunted: Battle of Britain, Undaunted: North Africa and Maximum Apocalypse.
