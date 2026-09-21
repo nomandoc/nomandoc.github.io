@@ -4,22 +4,7 @@
 I am a software developer, a ML engineer, a scientist, and an anesthesiologist-resuscitator. I effectively combine both professions by launching IT projects based on medical clinics. My experience in medicine makes me an indispensable member of the development team: I understand what the customer wants and know how to implement it most effectively. I write mainly in C# and Python, but I often have to use other related languages and tools.
 # Skills
 ## Technical Skills
-<picture>
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDAxeRqJNsJOY0OfWdnP_j-7LGFQxCOtsuY4zVvc4_g&s=10">
-  <img alt="C" width="25">
-</picture> ‒ 9 years  
-<picture>
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10">
-  <img alt="C++" width="25">
-</picture> ‒ 8 years  
-<picture>
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H2p0eoMqGFlTEZpDLvf7oROfa5zP7IykjTlp3cC4Ww&s">
-  <img alt="Python" width="25">
-</picture> ‒ 2 years  
-<picture>
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CT9KlSTzOSJUJPbVzFSBLpZII1PZ28rWreqrV4jgWA&s=10">
-  <img alt="SQL" width="40">
-</picture> ‒ 2 years  
+
 Machine learning ‒ 2 years  
 ## Other skills
 Scientific work ‒ 12 years  
