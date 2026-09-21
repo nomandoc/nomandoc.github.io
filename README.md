@@ -40,7 +40,7 @@ Thanks to my medical, scientific, and ML skills, I understand not just "how to" 
 Based on this, I act as a  "bridge" ‒ without which many projects are doomed to misunderstandings between these parties. 
 ### I effectively present projects to investors and clients.
 Drawing on my scientific and project experience, I can justify the necessity of a project from both scientific and economic perspectives. This has helped me win competitions and secure grants for projects.     
-### I can build a MVP faster, when competitors.
+### I can build a MVP faster, when my competitors.
 Thanks to my programming skills across various platforms (Android, Windows, Arduino, Web), I can quickly build an MVP, which allows me to secure funding for a project in a short period of time.
 # Other
 ## Hobbies
