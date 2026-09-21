@@ -23,7 +23,7 @@ I am a software developer, a ML engineer, a scientist, and an anesthesiologist-r
 Machine learning ‒ 2 years  
 ## Other skills
 Scientific work ‒ 12 years  
-Clinical work as a MD ‒ 6 years
+Clinical work as a MD ‒ 6 years  
 # Education
 * 2012-2018 yy.  Medical Institute of Belgorod State University, degree in medicine, graduating with honors  
 * 2018-2020 yy.  Research Institute of Anesthesiology and Reanimation n.a. V.A. Negovsky of the Russian Academy of Sciences, residency specializing in anesthesiology and intensive care  
