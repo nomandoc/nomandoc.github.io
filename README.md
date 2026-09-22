@@ -5,11 +5,11 @@ I am a software developer, a ML engineer, a scientist, and an anesthesiologist-r
 # Skills
 ## Technical Skills
 C ‒ 9 years  
-C++ ‒ 8 years  
+C# ‒ 8 years  
 Python ‒ 2 years  
 SQL ‒ 2 years  
 Machine learning ‒ 2 years  
-## Other skills
+## Other Skills
 Scientific work ‒ 12 years  
 Clinical work as a MD ‒ 6 years  
 # Education
