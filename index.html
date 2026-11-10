@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Viacheslav Andreenkov, MD/Data Scientist</title>
+  <meta name="description" content="Resume of Viacheslav Andreenkov, MD: data scientist, anesthesiologist-intensivist.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ============ Header / navigation ============ -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top" data-i18n="hero.shortName">Viacheslav Andreenkov</a>
+
+      <nav class="nav" aria-label="Main">
+        <a href="#about"        data-i18n="nav.about">About</a>
+        <a href="#skills"       data-i18n="nav.skills">Skills</a>
+        <a href="#experience"   data-i18n="nav.experience">Experience</a>
+        <a href="#education"    data-i18n="nav.education">Education</a>
+        <a href="#projects"     data-i18n="nav.projects">Projects</a>
+        <a href="#contribute"   data-i18n="nav.contribute">Value</a>
+        <a href="#publications" data-i18n="nav.publications">Publications</a>
+        <a href="#contacts"     data-i18n="nav.contacts">Contacts</a>
+      </nav>
+
+      <!-- Language switcher -->
+      <div class="lang-switch" role="group" aria-label="Language / Язык">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-lang="ru" aria-pressed="false">RU</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- ============ Hero ============ -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <img class="photo" src="photo.jpg" width="220" height="220"
+             data-i18n-attr="alt:hero.photoAlt" alt="Portrait">
+        <div>
+          <h1 data-i18n="hero.name">Viacheslav Andreenkov, MD</h1>
+          <p class="role" data-i18n="hero.role">Data Scientist · Anesthesiologist-Intensivist</p>
+          <p class="tagline" data-i18n="hero.tagline"></p>
+          <div class="hero-actions" data-render="heroActions"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ About ============ -->
+    <section id="about" class="section">
+      <div class="container">
+        <h2 data-i18n="about.title">About</h2>
+        <div class="prose" data-render="about"></div>
+      </div>
+    </section>
+
+    <!-- ============ Skills ============ -->
+    <section id="skills" class="section alt">
+      <div class="container">
+        <h2 data-i18n="skills.title">Skills</h2>
+        <div class="grid two">
+          <div>
+            <h3 data-i18n="skills.techTitle">Technical skills</h3>
+            <ul class="bars" data-render="techSkills"></ul>
+          </div>
+          <div>
+            <h3 data-i18n="skills.clinicalTitle">Clinical &amp; research skills</h3>
+            <ul class="bars" data-render="otherSkills"></ul>
+            <h3 data-i18n="skills.softTitle">Soft skills</h3>
+            <ul class="chips" data-render="softSkills"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Experience ============ -->
+    <section id="experience" class="section">
+      <div class="container">
+        <h2 data-i18n="experience.title">Experience</h2>
+        <div class="timeline" data-render="experience"></div>
+      </div>
+    </section>
+
+    <!-- ============ Education ============ -->
+    <section id="education" class="section alt">
+      <div class="container">
+        <h2 data-i18n="education.title">Education</h2>
+        <div class="timeline" data-render="education"></div>
+      </div>
+    </section>
+
+    <!-- ============ Projects ============ -->
+    <section id="projects" class="section">
+      <div class="container">
+        <h2 data-i18n="projects.title">Projects</h2>
+        <div class="grid cards" data-render="projects"></div>
+      </div>
+    </section>
+
+    <!-- ============ How I can contribute ============ -->
+    <section id="contribute" class="section alt">
+      <div class="container">
+        <h2 data-i18n="contribute.title">How I can contribute</h2>
+        <div class="grid cards" data-render="contribute"></div>
+      </div>
+    </section>
+
+    <!-- ============ Publications & awards ============ -->
+    <section id="publications" class="section">
+      <div class="container">
+        <h2 data-i18n="publications.title">Publications &amp; awards</h2>
+        <div class="grid two">
+          <div>
+            <h3 data-i18n="publications.papersTitle">Selected publications</h3>
+            <ul class="plain" data-render="publications"></ul>
+          </div>
+          <div>
+            <h3 data-i18n="publications.awardsTitle">Awards &amp; media</h3>
+            <ul class="plain" data-render="awards"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Other ============ -->
+    <section id="other" class="section alt">
+      <div class="container">
+        <h2 data-i18n="other.title">Other</h2>
+        <h3 data-i18n="other.languagesTitle">Languages</h3>
+        <ul class="chips" data-render="languages"></ul>
+        <h3 data-i18n="other.hobbiesTitle">Hobbies</h3>
+        <div class="prose" data-render="hobbies"></div>
+      </div>
+    </section>
+
+    <!-- ============ Contacts ============ -->
+    <section id="contacts" class="section">
+      <div class="container">
+        <h2 data-i18n="contacts.title">Contacts</h2>
+        <ul class="plain contacts" data-render="contacts"></ul>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span data-i18n="footer.text">© Viacheslav Andreenkov</span>
+      <span class="year" id="year">2026</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
