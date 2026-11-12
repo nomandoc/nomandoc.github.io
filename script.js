@@ -297,7 +297,7 @@
           {
             name: 'Персональный ассистент врача-психиатра',
             stack: ['Python', 'JS', 'HTML', 'CSS', 'SQL', 'LLM', 'ML'],
-            text: 'Система контроля пациентов с тревого и депрессией между приёмами, разработана в рамках чемпионата «Клинический компас».',
+            text: 'Система контроля пациентов с тревогой и депрессией между приёмами, разработана в рамках чемпионата «Клинический компас».',
             links: [{ label: 'Сертификат участника', url: 'files/compass.pdf' }, 
                     { label: 'Ссылка на сайт', url: 'https://chemrar.ru/klinicheskij-kompas-avinejro-i-partnyory-zapustili-kejs-chempionat-po-poisku-reshenij-dlya-diagnostiki-trevogi-i-depressii/' },], 
           },
