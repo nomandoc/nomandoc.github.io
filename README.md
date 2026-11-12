@@ -15,8 +15,7 @@ Clinical work as a MD ‒ 6 years
 # Education
 * 2012-2018 yy.  Medical Institute of Belgorod State University, degree in medicine, graduating with honors  
 * 2018-2020 yy.  Research Institute of Anesthesiology and Reanimation n.a. V.A. Negovsky of the Russian Academy of Sciences, residency specializing in anesthesiology and intensive care  
-* 2020-2022 yy.  Ural Federal University, programming courses “Programming in C#” and “Programming Technologies”  
-* 2025 y. Yandex Practicum, "ML engineer" course
+* 2020-2022 yy.  Ural Federal University, programming courses “Programming in C#” and “Programming Technologies” 
 # Projects
 ### Games Poll Bot, aka Cubert (Python, SQL, LLM)
 My successfully implemented pet project to create a bot for organizing surveys on board games. It fully automates the management of a group of board games, taking on the workload of one of the employees.
